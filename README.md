@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="YOUR_RESUME_LINK"><img src="https://img.shields.io/badge/Resume-4A4A4A?style=for-the-badge&logo=googledrive&logoColor=white" /></a>
+  <a href="YOUR_RESUME_LINK"><img src="https://drive.google.com/file/d/1FL9dM9T2oWvonUjnp62d14QOy8LcCYLo/view?usp=drive_link" /></a>
 </p>
 
 ---
